@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="DatePicker" id="DatePicker">
+    <container type="form" id="frmDatePic" displayname="Form"/>
+    <container type="form" id="frmHome" displayname="Form"/>
+    <container type="form" id="frmDatePic" displayname="Form"/>
+    <container type="form" id="frmHome" displayname="Form"/>
+    <globalsequences/>
+    <skins/>
+</application>

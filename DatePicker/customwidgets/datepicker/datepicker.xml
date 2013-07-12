@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customComponent>
+    <isOverride>false</isOverride>
+    <i18nSupported>true</i18nSupported>
+    <konyWrapperFiles>resources\thirdpartywidgets\widgetwrapper\tp-sencha-calendar.js</konyWrapperFiles>
+    <libraryFiles>resources\thirdpartywidgets\sencha\sencha-touch-debug.js</libraryFiles>
+    <libraryFiles>resources\thirdpartywidgets\sencha\sencha-touch.css</libraryFiles>
+    <libraryName>sencha</libraryName>
+    <marginSupported>true</marginSupported>
+    <name>datepicker</name>
+    <paddingSupported>true</paddingSupported>
+    <platformID>0</platformID>
+</customComponent>
