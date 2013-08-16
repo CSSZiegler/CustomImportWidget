@@ -15,5 +15,9 @@ In this application: We have imported sencha touch datepicker widget and used it
 Refer to video [KonyOne Platform 5.0 Importing Custom Widgets](http://www.youtube.com/watch?v=7nemBUl5O_Y) for more information
 
 # Supported platforms:
-SPA iPhone, SPA iPad, SPA Android, SPA Android tablet and DesktopWeb
+* SPA iPhone
+* SPA iPad
+* SPA Android
+* SPA Android tablet
+* DesktopWeb
 
