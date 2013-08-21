@@ -19,5 +19,5 @@ Refer to video [KonyOne Platform 5.0 Importing Custom Widgets](http://www.youtub
 * SPA iPad
 * SPA Android
 * SPA Android tablet
-* DesktopWeb
+
 
