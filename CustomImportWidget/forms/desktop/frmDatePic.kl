@@ -1398,7 +1398,7 @@
             <bb10_contentalignment>0</bb10_contentalignment>
         </children>
         <children xsi:type="khBox">
-            <ID>hbox121043302129066</ID>
+            <ID>hbxDatePicker</ID>
             <gridMetaData>
                 <colSpan>1</colSpan>
                 <column>0</column>
@@ -2048,7 +2048,7 @@
             <desktop_hoverskin>Skin Defaults</desktop_hoverskin>
             <windows8_hoverskin>Skin Defaults</windows8_hoverskin>
             <children xsi:type="kLabel">
-                <ID>label121043302129068</ID>
+                <ID>lbldatepicker</ID>
                 <gridMetaData>
                     <colSpan>1</colSpan>
                     <column>0</column>
