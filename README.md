@@ -3,7 +3,6 @@ DatePicker
 
 This application will showcase the importing of custom Sencha touch widget to Kony application
 
-Project Owner: Malla Nandikonda Malla.Nandikonda@kony.com
 
 Purpose
 =========
