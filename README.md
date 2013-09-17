@@ -17,8 +17,11 @@ Refer to video [KonyOne Platform 5.0 Importing Custom Widgets](http://www.youtub
 **Mobile**
  * SPA Android
  * SPA iPhone
+ * SPA BlackBerry
  
 **Tablet** 
  * SPA iPad
  * SPA Android
 
+**Desktop**
+ * DesktopWeb
